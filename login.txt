@@ -2,3 +2,4 @@ login page code
 
 email and password
 username and password
+number and password
